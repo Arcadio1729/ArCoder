@@ -1,0 +1,7 @@
+C:\Users\arcad\Desktop\ja\CS\GOL\GameOfLife\GameOfLife\bin\Debug\GameOfLife.exe.config
+C:\Users\arcad\Desktop\ja\CS\GOL\GameOfLife\GameOfLife\bin\Debug\GameOfLife.exe
+C:\Users\arcad\Desktop\ja\CS\GOL\GameOfLife\GameOfLife\bin\Debug\GameOfLife.pdb
+C:\Users\arcad\Desktop\ja\CS\GOL\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csprojAssemblyReference.cache
+C:\Users\arcad\Desktop\ja\CS\GOL\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csproj.CoreCompileInputs.cache
+C:\Users\arcad\Desktop\ja\CS\GOL\GameOfLife\GameOfLife\obj\Debug\GameOfLife.exe
+C:\Users\arcad\Desktop\ja\CS\GOL\GameOfLife\GameOfLife\obj\Debug\GameOfLife.pdb
